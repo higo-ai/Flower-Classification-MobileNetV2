@@ -85,11 +85,11 @@ Flower-Classification-MobileNetV2/
 Dự án được thiết kế để chạy trực tiếp trên Google Colab mà không cần cài đặt phức tạp:
 
 * **[Dành cho người xem - Demo nhanh]**: 
-  <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/higoindividual-ops/Flower-Classification-MobileNetV2/blob/main/02_Flower_Predictor.ipynb)
+  <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/higo-ai/Flower-Classification-MobileNetV2/blob/main/02_Flower_Predictor.ipynb)
   *(Sử dụng file này để tải Model có sẵn và test ảnh mẫu ngay lập tức)*
 
 * **[Dành cho nhà phát triển - Huấn luyện lại]**: 
-  <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/higoindividual-ops/Flower-Classification-MobileNetV2/blob/main/01_Flower_Training_MobileNetV2.ipynb)
+  <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/higo-ai/Flower-Classification-MobileNetV2/blob/main/01_Flower_Training_MobileNetV2.ipynb)
   *(Sử dụng file này nếu muốn xem toàn bộ quá trình xử lý dữ liệu và huấn luyện model từ đầu)*
 
 ## 📝 Các bước thực hiện:
